@@ -18,7 +18,8 @@ After a certain game was played, the project creates a KML file which lets us se
  Also has the abillity to change the GUI resolutions without changing to proportions of the objects.  
  Note: still contains some minor bugs  
    
- **TMUNA SHEL GUI**  
+![Alt text](guirunmod.jpeg?raw=true "")
+![Alt text](guirunmod2.jpeg?raw=true "")
    
    
  - Packman: This class represents a packman in the game with id, movement speed, radius of eating,
@@ -37,7 +38,7 @@ After a certain game was played, the project creates a KML file which lets us se
  
  - PathToKML: This class converts all the points of our paths into a KML file and showcases them on google earth.  
    
-   **TMUNA SHEL GOOGLE EARTH**  
+![Alt text](google1.jpeg?raw=true "")
      
  
  #Algo
