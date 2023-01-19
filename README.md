@@ -1,6 +1,6 @@
-#oopProject 3
+#gpsProjectPartTwo
 ========
-This project is a continuation project to oopProject 2 https://github.com/alexchagan/gpsProject2.  
+This project is a continuation project to gpsProject https://github.com/alexchagan/gpsProject.  
 It focuses on converting gps (lat,lon,alt) points to pixelated points, from a google earth display to a 2D image display of the same area.  
 We turn these pixelated points on a 2D image into a "Packman game", where such points represent either "packmen" or "fruits".     
 The objective of the game is for the packmen to "eat" all the fruits on the image in the fastest time possible, concidering their
